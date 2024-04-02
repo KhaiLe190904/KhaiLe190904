@@ -34,7 +34,7 @@
   <a href="https://www.facebook.com/lekhai190904/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khaile-facebook" />
   </a>
-  <a href="https://youtube.com/@lekhai1909?si=3HtWQifmhtVvhQey" target="blank">
+  <a href="https://www.youtube.com/@lekhai1909" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="khaile-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/le-quang-khai-a038b8252/" target="blank">
