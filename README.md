@@ -31,16 +31,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://fb.com/https://www.facebook.com/lekhai190904/" target="blank">
+  <a href="https://www.facebook.com/lekhai190904/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khaile-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccirkaf5xbz_ari2tszyv2g" target="blank">
+  <a href="https://www.youtube.com/channel/uccirkaf5xbz_ari2tszyv2g" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="khaile-youtube" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/le-quang-khai-a038b8252/" target="blank">
+  <a href="https://www.linkedin.com/in/le-quang-khai-a038b8252/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khaile-linkedin" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/lekhai_1909/" target="blank">
+  <a href="https://www.instagram.com/lekhai_1909/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="khaile-instagram" />
   </a>
   <a href="mailto: lequangkhai190904@gmail.com" target="top">
