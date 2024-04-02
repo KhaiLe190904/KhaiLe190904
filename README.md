@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="250" src="https://scontent.fhan14-3.fna.fbcdn.net/v/t39.30808-6/432783380_730180359200130_294743419262046619_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jv1pQaWndv4AX-QDMX4&_nc_ht=scontent.fhan14-3.fna&oh=00_AfA91MEidD7jiPapv1nJS5q-7NMwh-PcDPy_DMAXnlQ71A&oe=661131F6">
 - 🌱 I’m currently learning **IOT**
 
-- 📫 How to reach me **lequangkhai190904@gmail.cm**
+- 📫 How to reach me **lequangkhai190904@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
