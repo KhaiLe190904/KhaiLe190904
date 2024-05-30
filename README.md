@@ -1,7 +1,7 @@
 [![MasterHead](https://www.utsc.utoronto.ca/cms/sites/utsc.utoronto.ca.cms/files/styles/3_1_full_width_banner/public/images/page/Header%20image%201600x%20.jpg?h=d82dd7ab&itok=XT8-EA-G)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm KhaiLe</h1>
 <h3 align="center">A Student From Hanoi University of Science and Technology</h3>
-<img align="right" alt="Coding" width="250" src="https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/432783380_730180359200130_294743419262046619_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JMC_YriVcTkQ7kNvgFLB-K9&_nc_ht=scontent.fhan5-10.fna&oh=00_AYAAvL5bmfwkOIYMNmqvO9TD9cbjs6bhZVbUNB0c-MfRAA&oe=664CF5F6">
+<img align="right" alt="Coding" width="180" src="https://github.com/KhaiLe190904/KhaiLe190904/blob/main/z5433728991601_d8b74689bad163a16a361342bf7f8181.jpg">
 
 - 📑 My Favorites Quote 📑 "Everyday is a second chance!!!"
 
